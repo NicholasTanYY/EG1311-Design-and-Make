@@ -1,7 +1,7 @@
 # EG1311-Design-and-Make
 
 Build a robot using DIY materials to overcome obstacles
-![final robot image](Final Robot.jpg)
+![final robot image](Final_Robot.jpg)
 
 ### Task Definition:
 
